@@ -6,6 +6,11 @@ Using Flutter Framework anyone can Calculate Body Mass Index (BMI) with the appl
 
 ![rsz_whatsapp_image_2021-05-01_at_002644](https://user-images.githubusercontent.com/18647990/123945282-44f68980-d99e-11eb-9c46-0a69afcbf59d.jpg)
 
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/18647990/123945060-0c56b000-d99e-11eb-9435-386e4c77c3fb.jpg" width="200" height="450" />
+  <img src="https://user-images.githubusercontent.com/18647990/123945282-44f68980-d99e-11eb-9c46-0a69afcbf59d.jpg" width="200" height="450" /> 
+
+</p>
 
 ## Getting Started
 
